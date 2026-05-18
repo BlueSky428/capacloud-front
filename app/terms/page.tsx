@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 };
 
 const LAST_UPDATED = 'May 18, 2026';
-const LEGAL_EMAIL = 'legal@capa.cloud';
+const LEGAL_EMAIL = 'ceo@capa.cloud';
 
 function Section({
   id,
